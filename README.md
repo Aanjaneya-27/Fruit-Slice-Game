@@ -1,4 +1,4 @@
-🍓 Fruit Slice Game 🍉
+ Fruit Slice Game 
 Slice your way to the top! A fun and nostalgic browser-based game inspired by classic fruit-slicing arcade games.
 
 🚀 About The Project :-
