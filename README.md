@@ -14,7 +14,7 @@ Clean UI: A user-friendly interface with clear instructions and controls.
 
 Responsive Design: The game is designed to be playable on various screen sizes.
 
-🛠️ Built With:
+- Built With:
 This project leverages a powerful combination of front-end technologies to bring the game to life.
 
 HTML5: The backbone of the game's structure.
