@@ -1,7 +1,7 @@
  Fruit Slice Game 
 Slice your way to the top! A fun and nostalgic browser-based game inspired by classic fruit-slicing arcade games.
 
-🚀 About The Project :-
+ - About The Project :-
 
 This is a simple yet addictive fruit-slicing game built from scratch. The goal is straightforward: use your mouse to slice as many fruits as you can before they fall off the screen. It's a perfect blend of fast-paced action and classic arcade fun, built to showcase fundamental web development skills.
 
